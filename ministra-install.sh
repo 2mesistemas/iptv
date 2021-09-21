@@ -114,11 +114,13 @@ unzip ministra-5.6.5.zip -d /var/www/
 # Executando o Script de implantação
 cd /var/www/stalker_portal/deploy
 phing
+
+# Executando a pós instalação
 cd ~
 STALKER="/var/www/stalker_portal"
 
 if [ ! -d $STALKER/deploy ]; then
-        wget -O /tmp/stalker.zip https://portal.ottg.de/fl/Ministra_TV_Platform_5.6.6.zip
+        wget -O /tmp/stalker.zip https://download1589.mediafire.com/dzcexsit066g/kb3y2di2l9oobpz/ministra-5.6.6.zip
         unzip /tmp/stalker.zip -d /var/www/
         mv /var/www/stalker_portal-*/* /var/www/stalker_portal/
         rm -rf /var/www/stalker_portal-*
