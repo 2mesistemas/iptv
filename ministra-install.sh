@@ -49,7 +49,7 @@ systemctl restart mysql
 phpenmod mcrypt
 printf "short_open_tag = On\n" | tee -a /etc/php/7.0/apache2/php.ini
 
-# Apache Configuration
+# Configurando o Apache
 printf "Configurando o apache\n"
 a2enmod rewrite
 printf "<VirtualHost *:88>
