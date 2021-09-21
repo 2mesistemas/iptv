@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Tornar o script executável >>>> (chmod +x ministra.sh).
+# Torne o script executável da seguinte forma >>>> (chmod +x ministra-install.sh).
 
 # Definir senha root do MySql.
 while [ $MYSQL_PASSWORD != $MYSQL_PASSWORD_VERIFY ]
