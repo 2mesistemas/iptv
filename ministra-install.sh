@@ -138,6 +138,13 @@ if [ $? -eq 1 ]; then
         phing
 fi
 
+# Correção de bug com o arquivo Vendor 
+sleep 1
+rm -rf /var/www/stalker_portal/admin/vendor
+cd /var/www/stalker_portal/admin
+wget https://download1490.mediafire.com/qu6ogk5v2qzg/0fi9cyzrilek2zv/vendor.tar
+tar -xvf vendor.tar
+sleep 1
 
 # As variáveis de ambiente serão limpas. Obs: (Isto vai ocorrer automaticamente após um logout)
 printf "Limpando o ambiente\n"
