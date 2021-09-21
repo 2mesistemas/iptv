@@ -7,7 +7,7 @@ while [ $MYSQL_PASSWORD != $MYSQL_PASSWORD_VERIFY ]
     do
         printf "Digite uma senha root para o mysql: "
         read -s MYSQL_PASSWORD
-        printf "\nConfirm the mysql root password: "
+        printf "\nConfirme a senha root para o mysql: "
         read -s MYSQL_PASSWORD_VERIFY
         printf "\n"
 
