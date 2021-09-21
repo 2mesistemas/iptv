@@ -1,11 +1,11 @@
 #!/bin/bash
 
-# Before executing, make sure the ministra-<version>.zip file is in the same directory as this script. Also make sure this script has execute permissions (chmod +x ministra.sh).
+# Tornar o script executável >>>> (chmod +x ministra.sh).
 
-# Get a password for the mysql root user.
+# Definir senha root do MySql.
 while [ $MYSQL_PASSWORD != $MYSQL_PASSWORD_VERIFY ]
     do
-        printf "Enter a mysql root password: "
+        printf "Digite uma senha root para o mysql: "
         read -s MYSQL_PASSWORD
         printf "\nConfirm the mysql root password: "
         read -s MYSQL_PASSWORD_VERIFY
@@ -13,44 +13,44 @@ while [ $MYSQL_PASSWORD != $MYSQL_PASSWORD_VERIFY ]
 
         if [ $MYSQL_PASSWORD != $MYSQL_PASSWORD_VERIFY ]
             then
-                printf "Password do not match. Please try again\n"
+                printf "Senhas não são idênticas, tente de novo\n"
         fi
     done
 
-# Set variable to prevent mysql password prompt.
+# Define a variável para evitar prompt do mysql.
 export DEBIAN_FRONTEND=noninteractive
 
-# Check for updates to system.
+# Verificar por atualizações.
 apt update -y
 
-# Install system updates.
+# Instalando atualizações.
 apt upgrade -y
 
-# Install nginx. Done seperately as installing with apache causes issues.
+# Instação do nginx. Feita em separado, para não causar problemas com o apache.
 apt install nginx -y
 
-# Install the rest of the required packages.
+# Instalando o restante de pacote de dependências.
 apt install apache2 php7.0-mcrypt php7.0-mbstring nginx memcached mysql-server php php-mysql php-pear nodejs libapache2-mod-php php-curl php-imagick php-sqlite3 unzip -y
 
 pear channel-discover pear.phing.info
 
 pear install -Z phing/phing
 
-# Mysql Configuration
-printf "Configuring mysql\n"
+# Configurações do Mysql
+printf "Configurando o mysql\n"
 mysql -u root -e "ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '$MYSQL_PASSWORD';"
 printf "sql_mode=\"\"\n" | tee -a /etc/mysql/mysql.conf.d/mysqld.cnf
 mysql -u root -p"$MYSQL_PASSWORD" -e "CREATE DATABASE stalker_db;"
 mysql -u root -p"$MYSQL_PASSWORD" -e "GRANT ALL PRIVILEGES ON stalker_db.* TO 'stalker'@'localhost' IDENTIFIED BY '1' WITH GRANT OPTION;"
-printf "Restarting mysql\n"
+printf "Reiniciando o mysql\n"
 systemctl restart mysql
 
-# PHP Configuration
+# Configurações do PHP
 phpenmod mcrypt
 printf "short_open_tag = On\n" | tee -a /etc/php/7.0/apache2/php.ini
 
 # Apache Configuration
-printf "Configuring apache\n"
+printf "Configurando o apache\n"
 a2enmod rewrite
 printf "<VirtualHost *:88>
         ServerAdmin webmaster@localhost
@@ -70,10 +70,10 @@ printf "<VirtualHost *:88>
 		CustomLog ${APACHE_LOG_DIR}/access.log combined
 </VirtualHost>\n" | tee /etc/apache2/sites-available/000-default.conf
 sed -i 's/Listen 80/Listen 88/' /etc/apache2/ports.conf
-printf "Restarting apache\n"
+printf "Reiniciando o apache\n"
 systemctl restart apache2
 
-# Nginx Configuration
+# Configurando o Nginx
 printf "server {
 	listen 80;
 	server_name localhost;
@@ -99,28 +99,23 @@ root /var/www;
 	expires 30d;
 	}
 }\n" | tee /etc/nginx/sites-available/default
-printf "Restarting nginx\n"
+printf "Reiniciando o nginx\n"
 systemctl restart nginx
 
-# Install and configure NPM
+# Instando e configurando o NPM
 apt install npm -y
 npm install -g npm@2.15.11
 ln -s /usr/bin/nodejs /usr/bin/node
 
-# Unzip ministra to /var/www
+# Baixando o sistema, e descompactando-o para a pasta /var/www
+wget https://download1498.mediafire.com/xldijqhfl8lg/r3s53onzk6th9xt/ministra-5.6.5.zip
 unzip ministra-5.6.5.zip -d /var/www/
 
-# Run the deployment script
+# Executando o Script de implantação
 cd /var/www/stalker_portal/deploy
 phing
 cd ~
 
-# Clean up environment variables (this should occur after a log out anyway)
-printf "Cleaning up environment\n"
+# As variáveis de ambiente serão limpas. Obs: (Isto vai ocorrer automaticamente após um logout)
+printf "Limpando o ambiente\n"
 unset DEBIAN_FRONTEND
-
-# Links that helped create this script:
-# https://stackoverflow.com/questions/13814413/how-to-auto-login-mysql-in-shell-scripts
-# https://techoverflow.net/2019/03/16/how-to-solve-permission-denied-error-when-trying-to-echo-into-a-file/
-# https://www.percona.com/blog/2016/03/16/change-user-password-in-mysql-5-7-with-plugin-auth_socket/
-# https://unix.stackexchange.com/questions/184631/bash-ubuntu-strings-in-while-loops
