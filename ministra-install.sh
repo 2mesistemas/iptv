@@ -30,7 +30,7 @@ apt upgrade -y
 apt install nginx -y
 
 # Instalando o restante de pacote de dependências.
-apt install apache2 php7.0-mcrypt php7.0-mbstring nginx memcached mysql-server php php-mysql php-pear nodejs libapache2-mod-php php-curl php-imagick php-sqlite3 unzip -y
+apt install unzip apache2 php7.0-mcrypt php7.0-mbstring nginx memcached mysql-server php php-mysql php-pear nodejs libapache2-mod-php php-curl php-imagick php-sqlite3 unzip -y
 
 pear channel-discover pear.phing.info
 
