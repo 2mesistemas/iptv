@@ -1,0 +1,215 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/bandsports-4K.png" group-title="SÓ ESPORTES", BAND SPORTS 4K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13670.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/combate_4K.png" group-title="SÓ ESPORTES", COMBATE 4K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14178.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/combate_UHD.png" group-title="SÓ ESPORTES", COMBATE UHD
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13675.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGpaJYpApqMyHReo-BioGCc2oFdBQPpuzybw&usqp=CAU" group-title="SÓ ESPORTES", CONMEBOL TV1 4K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/43521.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGpaJYpApqMyHReo-BioGCc2oFdBQPpuzybw&usqp=CAU" group-title="SÓ ESPORTES", CONMEBOL TV2 4K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/43522.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGpaJYpApqMyHReo-BioGCc2oFdBQPpuzybw&usqp=CAU" group-title="SÓ ESPORTES", CONMEBOL TV3 4K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/43523.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGpaJYpApqMyHReo-BioGCc2oFdBQPpuzybw&usqp=CAU" group-title="SÓ ESPORTES", CONMEBOL TV4 4K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/43524.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/ESPN_2.png" group-title="SÓ ESPORTES", ESPN 2
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13893.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/ESPN_2_UHD.png" group-title="SÓ ESPORTES", ESPN 2 UHD
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13860.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/ESPN_Brasil_FHD.png" group-title="SÓ ESPORTES", ESPN BRASIL FHD
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14111.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/ESPN_Brasil_UHD.png" group-title="SÓ ESPORTES", ESPN BRASIL UHD
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13686.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/espn_extra_uhd.png" group-title="SÓ ESPORTES", ESPN EXTRA UHD
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/27260.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/ESPN_FHD.png" group-title="SÓ ESPORTES", ESPN FHD
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13685.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/ESPN_UHD.png" group-title="SÓ ESPORTES", ESPN UHD
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14112.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Fox-Sports-2_U4K.png" group-title="SÓ ESPORTES", FOX SPORTS 2 U4K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13694.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Fox-Sports-2_U4K.png" group-title="SÓ ESPORTES", FOX SPORTS 2 UHD
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14107.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/fox_sports_hd.png" group-title="SÓ ESPORTES", FOX SPORTS U4K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13695.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/fox_sports_hd.png" group-title="SÓ ESPORTES", FOX SPORTS UHD
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14108.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/pfc.png" group-title="SÓ ESPORTES", PFC +
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13820.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/pfc.png" group-title="SÓ ESPORTES", PREMIERE 1 4K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41866.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/pfc.png" group-title="SÓ ESPORTES", MOSAICO PREMIERE
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41867.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Premiere_2.png" group-title="SÓ ESPORTES", PREMIERE 2 4K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41865.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Premiere_2.png" group-title="SÓ ESPORTES", PREMIERE 2 UHD
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13723.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Premiere_3.png" group-title="SÓ ESPORTES", PREMIERE 3 4K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41868.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Premiere_3.png" group-title="SÓ ESPORTES", PREMIERE 3 UHD
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13724.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Premiere_4.png" group-title="SÓ ESPORTES", PREMIERE 4 4K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41864.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Premiere_4.png" group-title="SÓ ESPORTES", PREMIERE 4 UHD
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13725.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Premiere_5.png" group-title="SÓ ESPORTES", PREMIERE 5 4K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41869.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Premiere_5.png" group-title="SÓ ESPORTES", PREMIERE 5 UHD
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13726.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Premiere_6.png" group-title="SÓ ESPORTES", PREMIERE 6 4K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41870.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Premiere_7.png" group-title="SÓ ESPORTES", PREMIERE 7 4K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41871.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Premiere_7.png" group-title="SÓ ESPORTES", PREMIERE 7 UHD
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13757.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Premiere_8.png" group-title="SÓ ESPORTES", PREMIERE 8 UHD
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13892.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Premiere_9.png" group-title="SÓ ESPORTES", PREMIERE 9 UHD
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13895.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="SÓ ESPORTES", PREMIERE CLUBES 4K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14160.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="SÓ ESPORTES", PREMIERE CLUBES FHD
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13727.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/sport_tv_2_U4K.png" group-title="SÓ ESPORTES", SPORTV 2 U4K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14170.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/sport_tv_2_UHD.png" group-title="SÓ ESPORTES", SPORTV 2 UHD
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13732.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/sport_tv_3_U4K.png" group-title="SÓ ESPORTES", SPORTV 3 U4K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14159.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/sport_tv_3_UHD.png" group-title="SÓ ESPORTES", SPORTV 3 UHD
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13733.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Sport-TV_U4K.png" group-title="SÓ ESPORTES", SPORTV U4K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13762.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Sport-TV.png" group-title="SÓ ESPORTES", SPORTV UHD
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13734.ts
+
+#EXTINF:-1 tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/08/benfica-tv.png" group-title="SÓ ESPORTES", BTV 4K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/43623.ts
+
+#EXTINF:-1 tvg-logo="https://thumbs.web.sapo.io/?W=800&H=800&png=1&delay_optim=1&png=1&epic=ZTZiSedBAS1u31V3T0PoSHIu0l1luodHvaB0viN2KYWwT3dCE6wK/7dKuwKYEsvN/o9wyZJWHuMhokOt4Nks96QBRsa1yiXgW8u6/EweDGOdB0U=" group-title="SÓ ESPORTES", SPORT TV 1 4K PT
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/43624.ts
+
+#EXTINF:-1 tvg-logo="https://thumbs.web.sapo.io/?W=800&H=800&png=1&delay_optim=1&png=1&epic=ZTZiSedBAS1u31V3T0PoSHIu0l1luodHvaB0viN2KYWwT3dCE6wK/7dKuwKYEsvN/o9wyZJWHuMhokOt4Nks96QBRsa1yiXgW8u6/EweDGOdB0U=" group-title="SÓ ESPORTES", SPORT TV 1 + 4K PT
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/43625.ts
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="SÓ ESPORTES", SPORT TV 2 4K PT
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/43626.ts
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="SÓ ESPORTES", SPORT TV 3 4K PT
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/43627.ts
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="SÓ ESPORTES", SPORT TV 4 4K PT
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/43628.ts
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe" group-title="SÓ ESPORTES", SPORT TV 5 4K PT
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/43629.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/6c/00/3e/6c003e58864b9e46389a4c25e09838f6.jpg" group-title="SÓ ESPORTES", EUROSPORT 1 4K PT
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/43631.ts
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-x2K22z3gnH4/V_DtGEWhSYI/AAAAAAAACgE/Gebxp6soJaQZ-lpqhKxx_QOdGlk-VakPwCLcB/s1600/fhuxmcp92wg1w4y9pd2v4zjz3xs1vmjm.jpg" group-title="SÓ ESPORTES", EUROSPORT 2 4K PT
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/43632.ts
+
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="SÓ ESPORTES", ELEVEN SPORTS 1 4K PT
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/43633.ts
+
+#EXTINF:-1 tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOAAAADgCAMAAAAt85rTAAAA0lBMVEURJT7////mJTMAJT/hAAD//P386+vkBR3nGCfvhovoJTNHJT3PJTTDJTXkAAzYJjVhJTvve3/wjo3rU1b0rK3nLzbqRkv+8/PscXL1u7jlHi35xsrsaGn62dn5zc/85ObnP0LjABTpVVv0q7Dxg4X74Nzylp33t7jwfob0pablFij61dbkDiHvhoz98O74wsOkJTeVJTjwJTJ6JTnud3j2trobJT40JT1qJTqmJTevJTbubnbrX2Pwj5TpTU/sa2/nMjzynJrtfnu7JTYoJT12JTlKwOaiAAAKRklEQVR4nO2dC3faOBOGI0W2HOeL83HxBXEVhbAIF7cp6W67JEC7+///0o5km0sCoclyEazenh4wI+f4YYRGGkvyxYWRkZGRkZGRkZGRkZGRkZGRkZGRkZGR0Rnpcu86Kt3X36/3rt+/Ho3x8o9PN767Z+GbT38ch/Dy66dbdQV7/ue6/qfjOPETwB1ErvvtCHiXn+8Pgyd1//nwfNe3B/KflHt7fehKevnlgA4EF345OOD3AzoQXPj94IA3hwX83/EBBd2hhH6AnE2KO1Pke65egC6JuqG1M4XDImE6ATI+QztWhTKNAPmVtWtANOP6ALLpYOd8qN4S2gDG0XD3gOEo1gaQ7qGGIvSR6gP4cQ+A1tkDXmkEuI8qagANoAE0gAbQABpAA2gA9QXUqbN99sOl1wDtd2p4IlW072P/fcL4FAAT4oh3SqOs2iuAI4J3IX0BC54BNIAG0AAawPcD/nnugDOyk1vd+gKiDl250Xd+gCgp+Pz5LfezAkThoOh79MU1s20TEU6jL6pk2X2frCL6MW8Fr2vqngygVG9Ml25oYhF0t51xdxrjwYUbK+OlmROkv7X8qYzoF7KX5oaQ3hkCQj0lc2334ImkLFZVL/dSlcPzBHyDDODJA55iI/MmwHP3IHo8DcCw/F7V9Jmr9hrgk8ffOev3NDrbxXNP/J59yuLsk04G0AAaQAO4X8Bzj4MDTneR2tYXECUlj2++8DMARGFSIt6/zd7rDCjraWHKxfOaGlP+mlaX2GkOiFC9H/B4hc+J+uX+ayqPT2O4lKtZDpYrKp1sTaudyIB3ofCRLJxIytuKn2JOZhDwfBbTLwCeYk7GjlpPSkErOUtAZNdzbT3jNAHfIANoAA2gATSABtAAagJoVmG/B1Cn0UTnzD0oxvbuAe2aow0go1sHP29XdXnpy7H3k4nHO9+OxIqWpyceGxB70dYUyxt1tZLzPzogJu2d1tLBZDXlf3xAnxIRlHYlTLivGSDe6cZq8fM/rgXgPmUADaAB/C8Cko3yNmnzKa8K4yMAOvihWqmUe+om2J3U49Vjps4mPa7obq75PbNeuQz/e4lUr6rUqCdYHAPQ38N2eOtl+84xAN09jJE2ALpHAcSHA8QG0AAawP86oF2uZIJPrUav0sutw9zQ60IxMDRUCq7bq5TlvrJJL7PKj214I1/rPfV3dAKs5r0X8oBQ2CbefP3cgGUmMkOoQT3iq/NqhKsVaK3cKueVVKGr4w+QVYQPE90AXewKxlgMFxbWqBvnF6j26gUDkzzDJyEcdV6LuqQBryWeWvkIABvwhlaQdcddVtULsAH9Raa6mg8KEK8AMi5N4EE0oS6XXIgK5lkZIFhTDwIgpj8sa0axboBVgmnbknsxWS8BRak+BItMvD0S7EnQLsGxj1JAkoRyDyeUAgpsWzOuIyAf5wcvABeZ7zKUi5BcC5qVl4D1eT0AQBd+fXd6ArY3ApaauWkAng7g9Q48eZUDNpYB5RdwwoChx0QMryOOvd56QCdGfT0BxygMQ2ttFe2CJc19+7FLuigsOYx251U0zE5UgJjYFS0B2XQURbXZGkB3WgNLRxGOZaOC6lPXmdoZoBhHYB4sAGc9/cJElajdKWIyWQOI3ZjGXkuVL3oAgBKB43aYAWJHJnsfMkDminZR6AnIOSe1tYAULKnHeh72CqhMMS3kgL6a3JwDBr6LS1hHQDYtRNG4v7aKTkbRJK2iXcrisXzWAk+3ClBVdLSoomw0AfdhHX+Dr8TB9qKoPRUssIo0v2n6PA7GxbKaF6wj4OYw0Z6HCeiIx25rMHKY35gDzp9WAYB01vRPD7C0BPiDYr/fFiKozwGX4yAtorZzCoDOBg+qIP7ku85kuNaDcUH2V/UEHCP5xJ0FYHqQAmYWUEIhFGAMnloCzMwScGQ1NAVk06JMXg9SQFa76nQK9awVLYBhlPq04avZE1kjKgGdiSzatzIPhkguetENUH7rrozXPB3wqhu+nFSzAW8MlmwLmXqgVrSowA5q0zTQkyicA465foBVEqdSgOP0iHpwlQOfp5YMcFjzpElkLctTdqKap9FIQRP5mWaAA9mfVIILD2e19L2M3s0fmaFWUSWtsjROOtmdjWJedAaAdflqoTCaRNFAL0A0DFMNVSuTHg3lgZUdpBZJKI+H+byauTVUpqF6haOhpRmguvTnH/yy8fWiWgA2awz6zNSdyatrQnfFhR5lK0qjebUk5JJAf6b8NvLks1nZ9KkiU6GtOHsgrUOlsTyNoaho1TUDtHwSi9gRlMj41ixBwwKDJ0o8WWjAPSczSvwJcaQx5jJ3audtEByCrUKocGLhcFbXC1AOl2TbiMVTU3pQDZGoHLyC8QqM1KHCd1TSdwRRAIyuT6HFtB3ixXIrQI9IwBr3GXwxOM29aQTYJ5hGduNJqAe9AaB4qtQ7VI791Cjem9mDQLA4BWSsMuj7THbhwocPD4UY88LDhw8qMcxYYs8cl17pBXhHVJ8ZhkFylACATs1GNmV8BMYSZQTq5keS5mFGXDAbDcdO3gkH95M0htgBo+MQ1adseZq0JoBeBYUjj7IMELxTB8CCAnQJoPy2ABQ2/E7no4wPXr4iFDwoUxkNh5KOfoA9ZHX8VjDIAO0FIE8BvV8CDEI0CFr+o3aAzrQBkVrl7p8D0nWA7XWAAcNxYQiR3l6aYasDYEKwLwi+6qrrygCbGwFZ0+qWhJOl9BeAqp/tkXZvJcbqAGgFRA4aPDJpZoDjIWryvJF5Buiy0dWYufEMPQdMCDRTjBOnr5kHUbfI5Ea+jEPrKQFZ0C+P4jRMvPgNyvFTjON8ovcSIOqVuAdflbO8AakWgMiyyy3wIstaUZXshUB/t86D8DnhmPnVl4AobHS47BgU9GpkrFDmHAYQp50c0IGeDfGtdYCM9R86DNPa8Dlgmrt4dNzlB6fqAJj8KP4YyIfn5oDudPJn1LlLb7C8bGSG68NEOOt0oEcOo/54aaGCDoCPhMprfKQ5oCPvKGW1bH0cXBsmWh5p2ToCpj0ZdLcEuDDLrpq90lXb0pPREHAGgGUrhL6oaMzj4BwwvQc4ob8C6ARNqzFluv0GewQz9882jGP9l4ARx6I1aTMswVQjswkQtWMsSpNArCzZ0wHQJg5mckGHN7ZfAFYIsKmgMQ5f96DazRIGvNj1lrYr0QEQBoSpVDqwHhCytNd72MmM6UPBx/AOhhotQrLERD+bRAOyWlnRkXZJpzCR063T0G01kqSxnDqylTHLBNYrSWItl2lWkkXns6umba/shK8H4B51JMADztk+BuBPxrc+UGFX6nL28+CAX+557VCAEb//cnDA61uX7GFp8jo1CLu9PjTgxcVnlzmz5vbL+7dq9gVzPx8c7+Lyr5t7RltRYb/6LWpRdn/z1+EdeHF5+Q27gm9ch7UjyU0Rv10egU8i/v395nbvuvn593HwJOHF9f/3ruuvR+OTiAfQEfGMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIzeqH8Ab0r5XxnOFlUAAAAASUVORK5CYII=" group-title="SÓ ESPORTES", ELEVEN SPORTS 2 4K PT
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/43634.ts
+
+#EXTINF:-1 tvg-logo="https://www.ogol.com.br/img/logos/competicoes/893_imgbank_rj1_20180312095157.png" group-title="SÓ ESPORTES", CAMPEONATO CARIOCA 1
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44365.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SÓ ESPORTES", CAMPEONATO CARIOCA +1 HD
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44297.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SÓ ESPORTES", TNT SPORTS ORIGINAIS
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44385.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SÓ ESPORTES", ESTADIO TNT SPORT 01 HD
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44386.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SÓ ESPORTES", ESTADIO TNT SPORT 02 HD
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44387.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SÓ ESPORTES", ESTADIO TNT SPORT 04 HD
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44389.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SÓ ESPORTES", ESTADIO TNT PROGRAMAÇÂO
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44391.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SÓ ESPORTES", Copa do Nordeste 4
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44609.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SÓ ESPORTES", Copa do Nordeste 5
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/45047.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SÓ ESPORTES", CAMPEONATO CARIOCA +3 HD
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/45256.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SÓ ESPORTES", CAMPEONATO CATARINENSE 1
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/45421.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SÓ ESPORTES", CAMPEONATO CATARINENSE 2
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/45422.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SÓ ESPORTES", TDN EXTRA
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/46187.ts
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL._SY355_.png" group-title="SÓ ESPORTES", DAZN 1 BRASIL HD
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/36297.ts
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL._SY355_.png" group-title="SÓ ESPORTES", DAZN 1 EUR HD H265
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/33310.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRktYOPwnF17bdYpPimp8fxlOPtRtBEbR3TsnTmkAllLwj8mkKw" group-title="SÓ ESPORTES", DAZN 2 BRASIL HD
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/36296.ts
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL._SY355_.png" group-title="SÓ ESPORTES", DAZN 3 BRASIL HD
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41071.ts
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71njwkZLLfL._SY355_.png" group-title="SÓ ESPORTES", DAZN BAR 1 HD H265
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/33313.ts
+

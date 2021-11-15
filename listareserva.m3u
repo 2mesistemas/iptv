@@ -1,0 +1,1252 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/A&E_4K.png" group-title="FILMES & SERIES RES", A&E 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13665.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/A&E_HD.png" group-title="FILMES & SERIES RES", A&E FHD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/33360.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/amc.png" group-title="FILMES & SERIES RES", AMC RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14167.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Amc_4K.png" group-title="FILMES & SERIES RES", AMC 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14132.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Amc_hd.png" group-title="FILMES & SERIES RES", AMC HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14158.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/axn-hd.png" group-title="FILMES & SERIES RES", AXN HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/36411.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/CANAL_BRASIL_4K.png" group-title="FILMES & SERIES RES", CANAL BRASIL 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13672.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Canal_Sony_UHD.png" group-title="FILMES & SERIES RES", CANAL SONY UHD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13730.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/cinemax.png" group-title="FILMES & SERIES RES", CINEMAX 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41362.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/cinemax_UHD.png" group-title="FILMES & SERIES RES", CINEMAX UHD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13674.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/filmandarts.png" group-title="FILMES & SERIES RES", FILM & ARTS HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14110.ts
+
+#EXTINF:-1 tvg-logo="http://main.itsmydonow.xyz:2095/logos/STAR_CHANNEL_.png" group-title="FILMES & SERIES RES", STAR CHANNEL 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13690.ts
+
+#EXTINF:-1 tvg-logo="http://main.itsmydonow.xyz:2095/logos/STAR_LIFE_.png" group-title="FILMES & SERIES RES", STAR LIFE HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13691.ts
+
+#EXTINF:-1 tvg-logo="http://main.itsmydonow.xyz:2095/logos/STAR_HITS_.png" group-title="FILMES & SERIES RES", STAR HITS 1 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13692.ts
+
+#EXTINF:-1 tvg-logo="http://main.itsmydonow.xyz:2095/logos/STAR_HITS2_.png" group-title="FILMES & SERIES RES", STAR HITS 2 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13693.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/FX_UHD.png" group-title="FILMES & SERIES RES", FX HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13696.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="FILMES & SERIES RES", HBO + 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13858.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/HBO_Plus.png" group-title="FILMES & SERIES RES", HBO + HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13707.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/HBO2.png" group-title="FILMES & SERIES RES", HBO 2 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13704.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/HBO2_HD.png" group-title="FILMES & SERIES RES", HBO 2 HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13861.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/HBO.png" group-title="FILMES & SERIES RES", HBO 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13699.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/HBO_Family.png" group-title="FILMES & SERIES RES", HBO FAMILY 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13874.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/HBO_Family_HD.png" group-title="FILMES & SERIES RES", HBO FAMILY HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13705.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/HBO.png" group-title="FILMES & SERIES RES", HBO HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13706.ts
+
+#EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-mundi.png" group-title="FILMES & SERIES RES", HBO MUNDI 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13712.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/HBO_Plus_E_UHD.png" group-title="FILMES & SERIES RES", HBO PLUS E UHD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13805.ts
+
+#EXTINF:-1 tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/logo-canal-hbo-pop-252x252.png" group-title="FILMES & SERIES RES", HBO POP HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13859.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/HBO_Signature_HD.png" group-title="FILMES & SERIES RES", HBO SIGNATURE 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14155.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/HBO_Signature_HD.png" group-title="FILMES & SERIES RES", HBO SIGNATURE HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13708.ts
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/livetv.tube/wp-content/uploads/2020/02/hbo-xtreme-ao-vivo-1.png?fit=300%2C300&ssl=1" group-title="FILMES & SERIES RES", HBO XTREME 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13713.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/I.Sat_logo.png" group-title="FILMES & SERIES RES", I-SAT HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13881.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Megapix_4K.png" group-title="FILMES & SERIES RES", MEGAPIX 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13715.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Megapix.png" group-title="FILMES & SERIES RES", MEGAPIX HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41363.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/paramount.png" group-title="FILMES & SERIES RES", PARAMOUNT CHANNEL 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41364.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/paramount_HD.png" group-title="FILMES & SERIES RES", PARAMOUNT HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13722.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/PrimeBoxBrazil.png" group-title="FILMES & SERIES RES", PRIME BOX BRASIL HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13810.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/SPACE_4K.png" group-title="FILMES & SERIES RES", SPACE 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14164.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/SPACE_HD.png" group-title="FILMES & SERIES RES", SPACE HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13731.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Studio_Universal.png" group-title="FILMES & SERIES RES", STUDIO UNIVERSAL 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13735.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/tbs_4K.png" group-title="FILMES & SERIES RES", TBS 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14152.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/tbs_hd.png" group-title="FILMES & SERIES RES", TBS HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13737.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/TCM.png" group-title="FILMES & SERIES RES", TCM 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13891.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/TCM_HD.png" group-title="FILMES & SERIES RES", TCM HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14120.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/amc.png" group-title="FILMES & SERIES RES", AMC RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14167.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Amc_4K.png" group-title="FILMES & SERIES RES", AMC 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14132.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Amc_hd.png" group-title="FILMES & SERIES RES", AMC HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14158.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Telecine_Fun_4K.png" group-title="FILMES & SERIES RES", TELECINE FUN 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14104.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Telecine_Fun_HD.png" group-title="FILMES & SERIES RES", TELECINE FUN HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13740.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/telecine_pipoca_4K.png" group-title="FILMES & SERIES RES", TELECINE PIPOCA 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14101.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/telecine_pipoca_UHD.png" group-title="FILMES & SERIES RES", TELECINE PIPOCA UHD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13741.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Telecine-Premium_4K.png" group-title="FILMES & SERIES RES", TELECINE PREMIUM 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14099.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Telecine-Premium_HD.png" group-title="FILMES & SERIES RES", TELECINE PREMIUM HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13742.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Telecine_Touch_4K.png" group-title="FILMES & SERIES RES", TELECINE TOUCH 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14162.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Telecine_Touch_HD.png" group-title="FILMES & SERIES RES", TELECINE TOUCH HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13743.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Tnt-4K.png" group-title="FILMES & SERIES RES", TNT 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14098.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/TNT_Serie_4K.png" group-title="FILMES & SERIES RES", TNT SERIES 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14134.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/TNT_Serie_UHD.png" group-title="FILMES & SERIES RES", TNT SERIES UHD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13746.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Tnt-UHD.png" group-title="FILMES & SERIES RES", TNT UHD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13745.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Universal_Channel.png" group-title="FILMES & SERIES RES", UNIVERSAL CHANNEL 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13747.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/warner.png" group-title="FILMES & SERIES RES", WARNER CHANNEL 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13750.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES & SERIES RES", SYFY HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44132.ts
+
+#EXTINF:-1 tvg-logo="https://www.actigamer.pt/cnt/uploads/I20H001tvcineaction-e1583912767831.png" group-title="LEGENDADO EN & BR RES", TVCINE ACTION LEG 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41875.ts
+
+#EXTINF:-1 tvg-logo="https://www.dstvafrica.com/media/8918/tvcine_emotion.jpg" group-title="LEGENDADO EN & BR RES", TVCINE EDITION LEG 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41874.ts
+
+#EXTINF:-1 tvg-logo="https://www.actigamer.pt/cnt/uploads/I20H001tvcinetop-e1583912798176.png" group-title="LEGENDADO EN & BR RES", TVCINE TOP LEG 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41873.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Amc_4K.png" group-title="4K & 8K RES", AMC 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/33335.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Animal_Planet_HD.png" group-title="4K & 8K RES", ANIMAL PLANET 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/43324.ts
+
+#EXTINF:-1 tvg-logo="http://main.itsmydonow.xyz:2095/logos/STAR_HITS_.png" group-title="4K & 8K RES", STAR HITS 1 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/43323.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/arte.png" group-title="4K & 8K RES", ARTE1 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/43322.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/globosat+_4K.png" group-title="4K & 8K RES", MAIS NA TELA 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/43317.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/A&E_4K.png" group-title="4K & 8K RES", A&E 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/43315.ts
+
+#EXTINF:-1 tvg-logo="http://main.itsmydonow.xyz:2095/logos/STAR_HITS2_.png" group-title="4K & 8K RES", STAR HITS 2 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/43635.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/espn_extra_uhd.png" group-title="4K & 8K RES", ESPN RESRA 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44136.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/E!_HD.png" group-title="4K & 8K RES", E! 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44142.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/ESPN_Brasil_FHD.png" group-title="4K & 8K RES", ESPN BRASIL 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44143.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/ESPN_FHD.png" group-title="4K & 8K RES", ESPN 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44144.ts
+
+#EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-mundi.png" group-title="4K & 8K RES", HBO MUNDI 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44147.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/sport_tv_3_U4K.png" group-title="4K & 8K RES", SPORTV 3 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44149.ts
+
+#EXTINF:-1 tvg-logo="https://imagens.ebc.com.br/CUenmzbpHR0p1au5Tc0NCCn1Fk0=/754x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/conmebol_copa_libertadores.png?itok=MFhkivjW" group-title="4K & 8K RES", CONMEBOL TV 3 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44183.ts
+
+#EXTINF:-1 tvg-logo="https://imagens.ebc.com.br/CUenmzbpHR0p1au5Tc0NCCn1Fk0=/754x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/conmebol_copa_libertadores.png?itok=MFhkivjW" group-title="4K & 8K RES", CONMEBOL TV 4 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44184.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", FOX SPORTS 2 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44187.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", GLOBO SP 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44227.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", GLOBO RJ 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44228.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", GLOBO MINAS 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44229.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", CONMEBOL TV 1 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44234.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", FOOD NETWORK 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44237.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", PREMIERE CLUBES 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44239.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", REDE TV 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44242.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", SPACE 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44243.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", SPORTV 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44244.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", SPORTV 2 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44245.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", TNT 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44246.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", TNT SERIES 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44247.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", INTER TV DOS VALES 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44250.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", MTV 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44253.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/combate_4K.png" group-title="4K & 8K RES", COMBATE 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44152.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Animal_Planet_4K.png" group-title="DOCUMENTARIOS RES", ANIMAL PLANET 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14154.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Animal_Planet_HD.png" group-title="DOCUMENTARIOS RES", ANIMAL PLANET HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13666.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Discovery_channel.png" group-title="DOCUMENTARIOS RES", DISCOVERY CHANNEL 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13676.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/h_h_HD.png" group-title="DOCUMENTARIOS RES", DISCOVERY H&H HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13677.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/ID.png" group-title="DOCUMENTARIOS RES", DISCOVERY ID 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13710.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Discovery_Science.png" group-title="DOCUMENTARIOS RES", DISCOVERY SCIENCE 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/4809.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/discovery-hd-theater.png" group-title="DOCUMENTARIOS RES", DISCOVERY THEATER UHD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13679.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/TLC_Discovery.png" group-title="DOCUMENTARIOS RES", DISCOVERY TLC HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/27252.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/DiscoveryTurbO.png" group-title="DOCUMENTARIOS RES", DISCOVERY TURBO 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13680.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/discoveryworld.png" group-title="DOCUMENTARIOS RES", DISCOVERY WORLD UHD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13681.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/fishtv_HD.png" group-title="DOCUMENTARIOS RES", FISH TV 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/27253.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Food_Network_UHD.png" group-title="DOCUMENTARIOS RES", FOOD NETWORK UHD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13689.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/gnt_HD.png" group-title="DOCUMENTARIOS RES", GNT HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13799.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/gnt_HD.png" group-title="DOCUMENTARIOS RES", GNT UHD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13702.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/h2-hd.png" group-title="DOCUMENTARIOS RES", H2 HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13703.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/History.png" group-title="DOCUMENTARIOS RES", HISTORY CHANNEL 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/27313.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Lifetime_HD.png" group-title="DOCUMENTARIOS RES", LIFETIME HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13711.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/National-Geographic-Wild-HD.png" group-title="DOCUMENTARIOS RES", NAT GEO WILD HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13719.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/National_Geographic.png" group-title="DOCUMENTARIOS RES", NATIONAL GEOGRAPHIC HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13718.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/canal-off_HD.png" group-title="DOCUMENTARIOS RES", OFF HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13885.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/History.png" group-title="DOCUMENTARIOS RES", THE HISTORY CHANNEL
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13848.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/History_HD.png" group-title="DOCUMENTARIOS RES", THE HISTORY CHANNEL HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13709.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/TLC_HD.png" group-title="DOCUMENTARIOS RES", TLC HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13744.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/arte.png" group-title="ENTRETENIMENTO RES", ARTE 1 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13758.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/cancao-nova.png" group-title="ENTRETENIMENTO RES", CANCAO NOVA 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13777.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Comedy_Central.png" group-title="ENTRETENIMENTO RES", COMEDY CENTRAL
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13776.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/curta_HD.png" group-title="ENTRETENIMENTO RES", CURTA HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13873.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/E!2.png" group-title="ENTRETENIMENTO RES", E! 2 RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13683.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/E!_HD.png" group-title="ENTRETENIMENTO RES", E! HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14129.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/globosat+_4K.png" group-title="ENTRETENIMENTO RES", GLOBOSAT + 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13700.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/intertv_4k.png" group-title="ENTRETENIMENTO RES", INTER TV CABUGI 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14163.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/polishop.png" group-title="ENTRETENIMENTO RES", POLISHOP RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13889.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/rai.png" group-title="ENTRETENIMENTO RES", RAI ITALIA HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/27254.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Rede_Vida_HD.png" group-title="ENTRETENIMENTO RES", REDE VIDA HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13918.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/SIC_INTERNACIOANL.png" group-title="ENTRETENIMENTO RES", SIC INTERNACIONAL RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13900.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/TruTV.png" group-title="ENTRETENIMENTO RES", TRU TV RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13902.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/viva.png" group-title="ENTRETENIMENTO RES", VIVA RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13864.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/viva_HD.png" group-title="ENTRETENIMENTO RES", VIVA HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13749.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/WOHOO.png" group-title="ENTRETENIMENTO RES", WOOHOO RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13906.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/WOHOO_UHD.png" group-title="ENTRETENIMENTO RES", WOOHOO UHD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14135.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Band_news_UHD.png" group-title="NOTICIAS RES", BAND NEWS UHD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13669.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/CGTN.png" group-title="NOTICIAS RES", CGTN HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41308.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/CNN_BRASIL_4K.png" group-title="NOTICIAS RES", CNN BRASIL 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/36881.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/CNN_BRASIL_HD.png" group-title="NOTICIAS RES", CNN BRASIL HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/39357.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/cnn_espa.png" group-title="NOTICIAS RES", CNN ESPANHOL RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13871.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/cnn_espa.png" group-title="NOTICIAS RES", CNN ESPANHOL HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/36892.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/cnn-international.png" group-title="NOTICIAS RES", CNN INTERNACIONAL 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/36893.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/cnn-international_HD.png" group-title="NOTICIAS RES", CNN INTERNACIONAL HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14177.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/CNN_ORIGINAL_SERIES_HD.png" group-title="NOTICIAS RES", CNN SERIES HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41863.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/CNN_TURK_HD.png" group-title="NOTICIAS RES", CNN TURK HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/36887.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/CNT.png" group-title="NOTICIAS RES", CNT HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41309.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/DW_HD.png" group-title="NOTICIAS RES", DW DEUTSCH HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/27258.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="NOTICIAS RES", GLOBO NEWS DF
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14093.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="NOTICIAS RES", GLOBO NEWS MG HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13880.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="NOTICIAS RES", GLOBO NEWS SP 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14176.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/globo-news-logo(1).png" group-title="NOTICIAS RES", GLOBO NEWS SP UHD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13698.ts
+
+#EXTINF:-1 tvg-logo="http://img.miptv.ws/NHK.png" group-title="NOTICIAS RES", NHK 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13884.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Record_News_U4K.png" group-title="NOTICIAS RES", RECORD NEWS U4K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14114.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Record_News_UHD.png" group-title="NOTICIAS RES", RECORD NEWS UHD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13761.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/TV5.png" group-title="NOTICIAS RES", TV5 MONDE
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13914.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/TVE_HD.png" group-title="NOTICIAS RES", TVE HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14168.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/band_minas_UHD.png" group-title="TV ABERTA RES", BAND MINAS UHD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13668.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/band_NORDESTE_UHD.png" group-title="TV ABERTA RES", BAND NORDESTE UHD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/27700.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/band_SP_4K.png" group-title="TV ABERTA RES", BAND SP 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14179.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/boavontadetv.png" group-title="TV ABERTA RES", BOA VONTADE TV HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/36288.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/cancaao-nova.png" group-title="TV ABERTA RES", CANCAO NOVA HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13772.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/EPTV_CENTRAL.png" group-title="TV ABERTA RES", EPTV CENTRAL HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/33369.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Futura.png" group-title="TV ABERTA RES", FUTURA 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13878.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/BRASILIA_4K_GLOBO.png" group-title="TV ABERTA RES", GLOBO BRASILIA 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14153.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/BRASILIA_HD_GLOBO.png" group-title="TV ABERTA RES", GLOBO BRASILIA HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14091.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/EPTV_CAMPINAS_GLOBO.png" group-title="TV ABERTA RES", GLOBO EPTV CAMPINAS 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/36282.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/EPTV_RIBEIRAO_PRETO_GLOBO.png" group-title="TV ABERTA RES", GLOBO EPTV RIBEIRAO PRETO 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/36284.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/EPTV_SAO_CARLOS_GLOBO.png" group-title="TV ABERTA RES", GLOBO EPTV SAO CARLOS HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/36285.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/MG_UHD_GLOBO.png" group-title="TV ABERTA RES", GLOBO INTEGRAÇÃO 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14169.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/INTER_TV_CABUGI_GLOBO.png" group-title="TV ABERTA RES", GLOBO INTER TV CABUGI HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/36287.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/INTER_TV_JUIZ_DE_FORA_GLOBO.png" group-title="TV ABERTA RES", GLOBO INTER TV JUIZ DE FORA HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/36286.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/MINAS_4K_GLOBO.png" group-title="TV ABERTA RES", GLOBO MINAS 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13909.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/NORDESTE_4K_GLOBO.png" group-title="TV ABERTA RES", GLOBO NORDESTE 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41859.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/NORDESTE_HD_GLOBO.png" group-title="TV ABERTA RES", GLOBO NORDESTE HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41860.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/portugal_GLOBO.png" group-title="TV ABERTA RES", GLOBO PORTUGAL 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41876.ts
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5c/RBS_TV_logo_2008.png/revision/latest?cb=20151110112348" group-title="TV ABERTA RES", GLOBO RBS PORTO ALEGRE HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/36290.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/RIO_PRETO_GLOBO.png" group-title="TV ABERTA RES", GLOBO RIO PRETO HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13879.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/RJ_4K_GLOBO.png" group-title="TV ABERTA RES", GLOBO RJ 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13910.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/RPC_CURITIBA_4K_GLOBO.png" group-title="TV ABERTA RES", GLOBO RPC CURITIBA 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/40917.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/RPC_PARANA_4K_GLOBO.png" group-title="TV ABERTA RES", GLOBO RPC MARINGA PARANAESE 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13908.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/SP_4K_GLOBO.png" group-title="TV ABERTA RES", GLOBO SP 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14090.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Centro_America_GLOBO.png" group-title="TV ABERTA RES", GLOBO TV CENTRAL AMERICA CUIABA HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/36283.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Tvvv_diario.png" group-title="TV ABERTA RES", GLOBO TV DIARIO 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/33364.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Tv_morena_GLOBO.png" group-title="TV ABERTA RES", GLOBO TV MORENA 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/33363.ts
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9b/Ideal_TV_logo.svg/revision/latest/scale-to-width-down/512?cb=20161026011832" group-title="TV ABERTA RES", IDEAL TV HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14109.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/NHHK.png" group-title="TV ABERTA RES", NHK UHD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13921.ts
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b6/2014_Globo_Premium.png/revision/latest?cb=20141221050850" group-title="TV ABERTA RES", NSC BLUMENAU HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14161.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/RBI_TV.png" group-title="TV ABERTA RES", RBI TV HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/36294.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/RBS_TV.png" group-title="TV ABERTA RES", RBS TV PORTO ALEGRE 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14148.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/record_bahia.png" group-title="TV ABERTA RES", RECORD BAHIA HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41299.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/BELEM_RECORD.png" group-title="TV ABERTA RES", RECORD BELEM HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41291.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Brasilia_RECORD.png" group-title="TV ABERTA RES", RECORD BRASILIA HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41293.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/RECORD_CAMPINAS.png" group-title="TV ABERTA RES", RECORD CAMPINAS 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41300.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/RECORD_MINAS_HD.png" group-title="TV ABERTA RES", RECORD DF HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41296.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/GOIAS_RECORD.png" group-title="TV ABERTA RES", RECORD NORDESTE RECIFE 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41292.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/RECORD_HD.png" group-title="TV ABERTA RES", RECORD HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13896.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Record_News_UHD.png" group-title="TV ABERTA RES", RECORD NEWS UHD RES.
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41298.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/RECORD_PARANA_HD.png" group-title="TV ABERTA RES", RECORD PARANA HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41295.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/RJ_4K_RECORED.png" group-title="TV ABERTA RES", RECORD RJ 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14175.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/SP_4K_RECORDp.png" group-title="TV ABERTA RES", RECORD SP 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13728.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/SP_Interior_RECORD.png" group-title="TV ABERTA RES", RECORD SP INTERIOR HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41289.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/RedeAmazonica.png" group-title="TV ABERTA RES", REDE AMAZONICA MANAUS RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14115.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/rede-brasil.png" group-title="TV ABERTA RES", REDE BRASIL HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13831.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/RedeTV!.png" group-title="TV ABERTA RES", REDE TV HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13833.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/RIT.png" group-title="TV ABERTA RES", RIT RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14136.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/4K_SBT.png" group-title="TV ABERTA RES", SBT 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41302.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/BRASIL_SBT.png" group-title="TV ABERTA RES", SBT BRASIL HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41307.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/TV_Cidade_Verde.png" group-title="TV ABERTA RES", SBT CIDADE VERDE HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41301.ts
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/5/55/SBT_%281996-2001%29.png/revision/latest/top-crop/width/220/height/220?cb=20200318145135" group-title="TV ABERTA RES", SBT NORDESTE HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41305.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/SD_SBT.png" group-title="TV ABERTA RES", SBT SD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41303.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/TV_Anhangueraaa.png" group-title="TV ABERTA RES", TV ANHANGUERA GOIANIA RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13915.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Aparecida.png" group-title="TV ABERTA RES", TV APARECIDA 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13853.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/tv_bahia.png" group-title="TV ABERTA RES", TV BAHIA 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/36289.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/tv_brasil_2.png" group-title="TV ABERTA RES", TV BRASIL 2 RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/33508.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Tv_brasil.png" group-title="TV ABERTA RES", TV BRASIL HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13854.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/tv-camara.png" group-title="TV ABERTA RES", TV CAMARA HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13911.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/TV_Centro_America.png" group-title="TV ABERTA RES", TV CENTRAL AMERICA CUIABA HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13792.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/tv-cultura.png" group-title="TV ABERTA RES", TV CULTURA 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13855.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/TV_Diario_Fortalisa.png" group-title="TV ABERTA RES", TV DIARIO FORTALEZA
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41862.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/TV-Escola.png" group-title="TV ABERTA RES", TV ESCOLA HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13857.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/TV_ALTO_LITTORAL.png" group-title="TV ABERTA RES", TV GUARULHOS HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14092.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/04/TV_Rio_Sul.png" group-title="TV ABERTA RES", TV HGTV HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/36291.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/tv-justica.png" group-title="TV ABERTA RES", TV JUSTICIA HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13903.ts
+
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_tv-liberal_m.png" group-title="TV ABERTA RES", TV LIBERAL BELEM HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14146.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/TV_Novo_Tempo.png" group-title="TV ABERTA RES", TV NOVO TEMPO 4K RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13862.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/tvr-atim-bbum.png" group-title="TV ABERTA RES", TV RA TIM BUM UHD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/14095.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/tv-senado.png" group-title="TV ABERTA RES", TV SENADO HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13912.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/TV_TEM_BAURU.png" group-title="TV ABERTA RES", TV TEM BAURU HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13856.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/RIO_PRETO_GLOBO.png" group-title="TV ABERTA RES", TV TEM SAO JOSE DP RIO PRETO HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/33509.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/TV_TEM_SOROCABA.png" group-title="TV ABERTA RES", TV TEM SOROCABA RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13916.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/TV_TEM_SOROCABA.png" group-title="TV ABERTA RES", TV TEM SOROCABA HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/33370.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/TV_Tribuna_(Santos).png" group-title="TV ABERTA RES", TV TRIBUNA SANTOS RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13913.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/TV_Tribuna_(Santos).png" group-title="TV ABERTA RES", TV TRIBUNA SANTOS HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/36293.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/tv_vanguarda.png" group-title="TV ABERTA RES", TV VANGUARDA S. J. DOS CAMPOS HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/36292.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/TV_Verdes_Mares.png" group-title="TV ABERTA RES", TV VERDES MARES FORTALEZA HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/33366.ts
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0014/4679/brand.gif?itok=Xj6Hpup2" group-title="TV ABERTA RES", CANAL BOI HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44291.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA RES", GLOBO BAHIA HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44301.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV ABERTA RES", GLOBO RPC FOZ DO IGUAÇU Full HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44585.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/disney-junior.png" group-title="INFANTIS RES", DISNEY JUNIOR 4K RES&8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/33334.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Gloob_HD.png" group-title="INFANTIS RES", GLOOB 4K RES&8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44133.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Boomerang_UHD.png" group-title="INFANTIS RES", BOOMERANG 4K RES&8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44137.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/tvr-atim-bbum.png" group-title="INFANTIS RES", TV RA TIM BUM 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44145.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Discovery_kids.png" group-title="INFANTIS RES", DISCOVERY KIDS 4K RES&8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44158.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Natgeo_Kids.png" group-title="INFANTIS RES", NATGEO KIDS 4K RES&8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44188.ts
+
+#EXTINF:-1 tvg-logo="http://185.53.90.49:41001/logos/Baby TV.png" group-title="INFANTIS RES", BABY TV HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/22367.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Boomerang_UHD.png" group-title="INFANTIS RES", BOOMERANG HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13753.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/cartoon-network-.png" group-title="INFANTIS RES", CARTOON NETWORK HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13673.ts
+
+#EXTINF:-1 tvg-logo="http://185.53.90.49:41001/logos/Baby TV.png" group-title="INFANTIS RES", BABY TV 4K RES&8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41311.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Discovery_kids.png" group-title="INFANTIS RES", DISCOVERY KIDS HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13678.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Disney.png" group-title="INFANTIS RES", DISNEY HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13782.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Disney_Channel.png" group-title="INFANTIS RES", DISNEY CHANNEL HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13682.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/disney-junior.png" group-title="INFANTIS RES", DISNEY JUNIOR HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13754.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Disney_XD.png" group-title="INFANTIS RES", DISNEY XD HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/27257.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Gloob_HD.png" group-title="INFANTIS RES", GLOOB HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13701.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/gloobinho.png" group-title="INFANTIS RES", GLOOBINHO HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/27312.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Natgeo_Kids.png" group-title="INFANTIS RES", NATGEO KIDS HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13752.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/nick-jr.png" group-title="INFANTIS RES", NICK JR HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13720.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/nickelodeon.png" group-title="INFANTIS RES", NICKELODEON HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13897.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/nickelodeon.png" group-title="INFANTIS RES", PANDA HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41370.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/nickelodeon.png" group-title="INFANTIS RES", TOM E JERRY HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/41074.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/tooncast.png" group-title="INFANTIS RES", TOONCAST HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13852.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/tvr-atim-bbum.png" group-title="INFANTIS RES", TV RA TIM BUM HD RES
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/13904.ts
+
+
+####################################################    PLUTO TV    ################################################################
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png" group-title="PLUTO TV", A vida moderna de Rocko
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6079c1539b05aa0007a57495/colorLogoPNG.png" group-title="PLUTO TV", As Aventuras de Jackie Chan
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/colorLogoPNG.png" group-title="PLUTO TV", As Pistas de Blue
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="PLUTO TV", Babyfirst
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png" group-title="PLUTO TV", BET Being Mary Jane
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="PLUTO TV", BET Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="PLUTO TV", Comedy Central Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="PLUTO TV", Comedy Central South Park
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="PLUTO TV", FailArmy
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="PLUTO TV", Filmes Suspense
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png" group-title="PLUTO TV", Guia de Canais
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6079c058aa05ac0007d10054/colorLogoPNG.png" group-title="PLUTO TV", Jeannie é um Gênio
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/602e80c762306a0007179876/colorLogoPNG.png" group-title="PLUTO TV", Jovem Pan Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/600b248969c6580007e91a2d/colorLogoPNG.png" group-title="PLUTO TV", Loupe
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600b248969c6580007e91a2d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png" group-title="PLUTO TV", MasterChef
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png" group-title="PLUTO TV", MTV Are you the One?
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="PLUTO TV", MTV Biggest Pop
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png" group-title="PLUTO TV", MTV Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6047ff2e5e61cf000784e4da/colorLogoPNG.png" group-title="PLUTO TV", MTV Spankin' New
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4da/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="PLUTO TV", Naruto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png" group-title="PLUTO TV", Nick Clássico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png" group-title="PLUTO TV", Nick Jr. Club
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="PLUTO TV", Nick Teen
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9b096236af340008da3779/colorLogoPNG.png" group-title="PLUTO TV", Nosey Casos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9b096236af340008da3779/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/colorLogoPNG.png" group-title="PLUTO TV", Nosey Escândalos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="PLUTO TV", O Reino Infantil
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60072798dcf437000755b4f3/colorLogoPNG.png" group-title="PLUTO TV", Paramount+ Apresenta
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f515d080e738d000739e19c/colorLogoPNG.png" group-title="PLUTO TV", People are Awesome
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e19c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="PLUTO TV", Pluto TV Anime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="PLUTO TV", Pluto TV Cine Clássicos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="PLUTO TV", Pluto TV Cine Comédia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="PLUTO TV", Pluto TV Cine Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="PLUTO TV", Pluto TV Cine Família
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="PLUTO TV", Pluto TV Cine Romance
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="PLUTO TV", Pluto TV Cine Sucessos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="PLUTO TV", Pluto TV Cine Terror
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png" group-title="PLUTO TV", Pluto TV Comédia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60f8841a4865da0007421177/colorLogoPNG.png" group-title="PLUTO TV", Pluto TV Estilo de Vida
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f8841a4865da0007421177/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/colorLogoPNG.png" group-title="PLUTO TV", Pluto TV Fashionbox
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="PLUTO TV", Pluto TV Filmes Ação
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="PLUTO TV", Pluto TV Filmes Nacionais
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="PLUTO TV", Pluto TV Investigação
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" group-title="PLUTO TV", Pluto TV Junior
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" group-title="PLUTO TV", Pluto TV Karaokê por Stingray
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05ad/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" group-title="PLUTO TV", Pluto TV Kids
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="PLUTO TV", Pluto TV Mistérios
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="PLUTO TV", Pluto TV Natureza
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604a8dedbca75b0007b1c753/colorLogoPNG.png" group-title="PLUTO TV", Pluto TV Paisagens por Stingray
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604a8dedbca75b0007b1c753/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="PLUTO TV", Pluto TV Retrô
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="PLUTO TV", Pluto TV Séries
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png" group-title="PLUTO TV", Pluto TV Shows por Stingray
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b91e0692f770007d9f33f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/colorLogoPNG.png" group-title="PLUTO TV", Pluto TV Star Trek [Offline]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png" group-title="PLUTO TV", Pluto TV Vida Real
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png" group-title="PLUTO TV", Porta dos Fundos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png" group-title="PLUTO TV", Tastemade
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" group-title="PLUTO TV", The Pet Collective
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="PLUTO TV", Tokusato
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png" group-title="PLUTO TV", Turma da Mônica
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+
+###############################################    INFANTIS 24HS    #######################################################################
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/d067b00880cfe639b7806e5ff982ba74.png" group-title="INFANTIS 24HS", MASHA E O USO
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/8541
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/d3dd7d221e87daf873e60ef02e19eae2.jpg" group-title="INFANTIS 24HS", TODO MUNDO ODEIA O CHIRS
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/9659
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/f377526ab82e6d38b2e6d4c806d127d0.jpg" group-title="INFANTIS 24HS", TURMA DO PATETA
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/11354
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/c21c3d3d58294799e1bb8e895923ff97.png" group-title="INFANTIS 24HS", CARANGOS E MOTOCAS
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/36465
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/e401a24e3360c322958dca8aaad15106.png" group-title="INFANTIS 24HS", CINDERELA
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/36466
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/bad25a90c800ddb72e83e5c88fb72dd5.png" group-title="INFANTIS 24HS", DUCK DODERS
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/36467
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/c3c6a2ec594881998d6396a76439a45d.png" group-title="INFANTIS 24HS", 101 DALMATAS
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/36468
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/c3510b3c33af6b65573bd7d379840f28.png" group-title="INFANTIS 24HS", DOIS HOMENS E MEIO
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/36469
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/43fffad398a32009d644ebf7be7cd8cd.png" group-title="INFANTIS 24HS", HERCULES
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/36470
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/1a93b6cbe4314cbd25b26048726d2324.png" group-title="INFANTIS 24HS", KARATE KID
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/36471
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="INFANTIS 24HS", LIGA DA JUSTIÇA
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/36472
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="INFANTIS 24HS", PEQUENOS ESPIÕES
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/36473
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/16a5dcc711aeb20aa2a5e91b2607ca20.png" group-title="INFANTIS 24HS", SCOOPY NO ESPAÇO
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/36474
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/bb97dfc4506087f1f06187664d898aba.jpg" group-title="INFANTIS 24HS", SUPER CHOQUE
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/36476
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/f4820b38f5874796e807bd5d0395ed18.png" group-title="INFANTIS 24HS", URSOS SEM CURSO
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/36477
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/eed7c0dff1f615a737cb21302e98f5c7.png" group-title="INFANTIS 24HS", PESADELO NA COZINHA
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/36693
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/cc22ea5ddeb20e235bfb800027d8c185.png" group-title="INFANTIS 24HS", COMÉDIA SELVAGEM
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/36783
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/975d08dbc90575084413d29d57e74b0f.png" group-title="INFANTIS 24HS", OS SMURFS
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/36342
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/0186b30e8d8967d9ba70540b179cbb4f.png" group-title="INFANTIS 24HS", AS MUMIAS VIVAS
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/36343
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/a92d043d2ce7c9baf855281b2c4f2dbb.png" group-title="INFANTIS 24HS", CASA DO MICKEY
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/36344
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/102cdaa3328291bee704899ed22e2b5b.png" group-title="INFANTIS 24HS", A GUARDA DO LEÃO
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/36345
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/b700aa41e63d7914cc3e8d29fdc6d1cd.png" group-title="INFANTIS 24HS", KICK BUTTOWSKI
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/26783
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/ed4ca1630844d4fda43326d8b33fab1f.png" group-title="INFANTIS 24HS", STAND-UP
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/26766
+
+#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180528/eal/kisspng-paper-label-patati-patat-stationery-calculadora-5b0c1b999edc21.9188445415275201536507.jpg" group-title="INFANTIS 24HS", PATATI PATATÁ
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/26765
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/85b5f957b5afe5f1ebb57970ac832f61.png" group-title="INFANTIS 24HS", PADRINHOS MÁGICOS
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/26793
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/812bc7061cf1ce44c48ec2bd0066521b.png" group-title="INFANTIS 24HS", OS VALENTES COWBOYS
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/26792
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/ec523d5c0bc4acc871e4e8e2ee5be4de.png" group-title="INFANTIS 24HS", LULUZINHA
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/26791
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/f103204a73ddcd669fffffa57b09a9e2.png" group-title="INFANTIS 24HS", TARTARUGAS NINJA
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/26790
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/b3985e779aae947691a0c4f362a2ea84.png" group-title="INFANTIS 24HS", EU SOU O MÁXIMO
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/26787
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/d1d15716dfcb74c214a2c2726c0753ed.png" group-title="INFANTIS 24HS", CAVALEIROS DO ZODÍACO
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/26785
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/1e216d1622feb618018521847f0c220b.png" group-title="INFANTIS 24HS", CASTELO RÁ-TIMBUM
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/26784
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/9596436a0e12061f77d4bf4e5c4bcd47.png" group-title="INFANTIS 24HS", GARFIELD
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/26782
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/16873194a420fcf402d4695581fa2dc5.png" group-title="INFANTIS 24HS", FORMULA 1 DIRIGIR PRA VIVER
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/26781
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/0bbd9243f1d791f1246143c611a325c7.png" group-title="INFANTIS 24HS", MARINHEIRO POPEYE
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/26780
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/dabadba9343b043b5d926e5d3ac31a32.png" group-title="INFANTIS 24HS", GEORGE, O CURIOSO
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/26779
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/055e3960a65ca7bf585ae8684e438e07.png" group-title="INFANTIS 24HS", DE VOLTA PARA O FUTURO
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/26778
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/7cb79b076f0afd85409f4cb7882364bd.png" group-title="INFANTIS 24HS", BRANCA DE NEVE
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/26777
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/fdd30929536e082e2c3039840bda366a.png" group-title="INFANTIS 24HS", TOMA LÁ DÁ CÁ
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/26776
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/751a5a8ece9645b53c15cf6af2184dc1.png" group-title="INFANTIS 24HS", BEN 10 OMNIVERSE
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/26773
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/052d3d223c4c7795733a81f4a05147e9.png" group-title="INFANTIS 24HS", AS AVENTURAS DE JACKIE CHAN
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/26772
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/413b9d8efd5e55e8646437afffa120fe.png" group-title="INFANTIS 24HS", PJ MARKS
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/26771
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/c06073ba6ed4ffdfe9765dae84833b1b.png" group-title="INFANTIS 24HS", OS JOVENS TITANS EM AÇÃO
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/26770
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/cbba3c428660368ed6e1d1b7384de846.png" group-title="INFANTIS 24HS", BICUDO, O LOBISOMEM
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/26769
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/2d0c728ae9ef9db7b1fca33f11bd6d5b.png" group-title="INFANTIS 24HS", BEN 10 (2005)
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/26768
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/cc1b2b1e3c0e0a28433abc077ca3d73e.png" group-title="INFANTIS 24HS", BUZZ LIGHTYER
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/26767
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/58caf560a23c74c0acafa87db2a8daa5.jpg" group-title="INFANTIS 24HS", SCOOBY DOO!
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/25395
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/073a23f5a1378a0a4dc20028794cc0c1.png" group-title="INFANTIS 24HS", LIGEIRINHO
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/25393
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/64321f9da8f53f8768b371b9b22e7883.png" group-title="INFANTIS 24HS", GASPARZINHO
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/25396
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/c633f1cda77b2b444dc0adc9cb95dc5a.jpg" group-title="INFANTIS 24HS", DUCKTALES
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/22548
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/e20fefb9575933a4fc2517490104eeda.png" group-title="INFANTIS 24HS", CAVALO DE FOGO
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/25394
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/bcd7e7048e80e9a91c2a8e8d19cedadd.jpg" group-title="INFANTIS 24HS", FORMIGA ATOMICA
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/22547
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/23498949cb7e542c6a8a3319bdc8ae0c.png" group-title="INFANTIS 24HS", DRAGON BALL GT
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/22487
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/db5dfb2d1ffea6862f38a11523cb045d.jpg" group-title="INFANTIS 24HS", VAI QUE COLA
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/19381
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/bb0e87ed5d08359a30738b17288d341a.jpg" group-title="INFANTIS 24HS", SUPER WINGS
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/8539
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/47d4d64fd24dd28da165f20443c6455f.jpg" group-title="INFANTIS 24HS", SUPER AMIGOS
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/11352
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/5a950011224f1a3614cf132ba59badc3.png" group-title="INFANTIS 24HS", POCOYO
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/7513
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/850c171df6548be282bfa288732276d0.png" group-title="INFANTIS 24HS", PICA PAU
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/7424
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/2aa2877c54ef0d12deda8e2981675ba9.png" group-title="INFANTIS 24HS", PERNALONGA
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/11358
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/5ed69d51a920f1c158a70e1ee2a48e1e.jpg" group-title="INFANTIS 24HS", PEPPA PIG
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/7381
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/c1df0ac26078b4b41fe484aca89d03d3.jpg" group-title="INFANTIS 24HS", PATRULHA CANINA
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/8538
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/b6ae7ce3669e02c0f63e5cc87c682c77.png" group-title="INFANTIS 24HS", OS JETSONS
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/11375
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/ee2fbd695aea11a27247693bab075cd6.jpg" group-title="INFANTIS 24HS", OS FLINTSTONES
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/7419
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/5f4873e6b33f1e42393c99a136c75778.png" group-title="INFANTIS 24HS", O SHOW DA LUNA
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/7418
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/f3e2013ebc9b19919b1148c7bf52d6ef.jpg" group-title="INFANTIS 24HS", O MUNDO DE BITA
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/9143
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/a09e3400b8da794931049e029a1135dc.png" group-title="INFANTIS 24HS", O MÁSKARA
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/8155
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/3f90b36ff0ed6d99652dde8dec15a74d.jpg" group-title="INFANTIS 24HS", O INCRÍVEL MUNDO DE GUMBALL
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/7416
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/9476f7bf9a00733b6b6a32170dbc1592.png" group-title="INFANTIS 24HS", MASTERCHEF
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/7420
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/6e0ab497460eb127ec99ca53d846b883.png" group-title="INFANTIS 24HS", ICARLY
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/19382
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/4dc760ec82c7a32392806afc0f0af041.png" group-title="INFANTIS 24HS", HEY ARNOLD
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/11353
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/a7f9d38a2e0b6bf33c1d80def1116004.png" group-title="INFANTIS 24HS", GATO FELIX
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/11350
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/b6bcfed2f0d8b482de0cdd94b05a2bc3.png" group-title="INFANTIS 24HS", GALINHA PINTADINHA
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/9142
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/888ff3f2a75201ac79ca090a0fec82b6.png" group-title="INFANTIS 24HS", FAMILÍA DINOSSAUROS
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/7512
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/9ef2401dbaf23717e7ceccceb827b6fb.png" group-title="INFANTIS 24HS", EU A PATROA E AS CRIANÇAS
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/7421
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/9388786f8ca2177aa5872c0e0b98487c.png" group-title="INFANTIS 24HS", DRAKE E JOSH
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/7503
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/6224332f5e88d90fd76d839a1d42987d.png" group-title="INFANTIS 24HS", DORA, A AVENTUREIRA
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/8130
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/f821c90e4f0ecc5ac464584bcf7de79f.png" group-title="INFANTIS 24HS", DENNIS, O PIMENTINHA
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/11362
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/ef71c498c126b1d2e8cab2c8bad4500c.jpg" group-title="INFANTIS 24HS", CORRIDA MALUCA
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/7511
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/f6641ab74f6f95a7df5309837789de7b.png" group-title="INFANTIS 24HS", CORAGEM, O CÃO COVARDE
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/20254
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/f73cd0d244c388c62b3ca4a4f5b50235.png" group-title="INFANTIS 24HS", COELHO RICOCHETE
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/11361
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/622ebf0335971ec3d453fbf81a712d4b.png" group-title="INFANTIS 24HS", CHAVES
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/7383
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/c1bc743e802234376aae5729887415f3.png" group-title="INFANTIS 24HS", CHAPOLIN
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/19383
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/f13528c1ca4a6e4b841d3814ff58f6b9.png" group-title="INFANTIS 24HS", CAVERNA DO DRAGAO
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/11372
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/929feaca9dab989aac42dec03bcfbeca.jpg" group-title="INFANTIS 24HS", BOB ESPONJA
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/13269
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/302a08d8aabb628339a6cf066367f5ba.png" group-title="INFANTIS 24HS", BLAZE AND THE MONSTER MACHINES
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/8540
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/d57d254dfa90dc0ae4440799b72f4216.png" group-title="INFANTIS 24HS", BIG MOUTH
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/11374
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/0107dd206b81dca571c5dd840b9b2082.png" group-title="INFANTIS 24HS", BIBO PAI E BOBI FILHO
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/11360
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/5a06c15ef98c82555c81915246efa205.png" group-title="INFANTIS 24HS", BABY LOONEY TUNES
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/7417
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/414fb83e71d4eb3a2f5f4ea98455d89b.png" group-title="INFANTIS 24HS", AS MENINAS SUPERPODEROSAS
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/7483
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/e35dd746efdc9e96d9077dad4f061f32.png" group-title="INFANTIS 24HS", ALADDIN
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/7415
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/e1eb2326b5d15797f2355fa15390a54a.png" group-title="INFANTIS 24HS", A VACA E O FRANGO
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/11359
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/07ba1029040a66236c7e10f854064b7b.png" group-title="INFANTIS 24HS", A PEQUENA SEREIA
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/7584
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/51326d82a8c4878f5dd26066ba5521ef.png" group-title="INFANTIS 24HS", A PANTERA COR DE ROSA
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/11357
+
+#EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/40cd253c85f86a602f101f0b56199d33.png" group-title="INFANTIS 24HS", 3 PALAVRINHAS
+http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/11355
+
+
+#######################################################        #####################################################################
+
+
