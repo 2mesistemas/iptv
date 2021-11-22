@@ -1412,3 +1412,97 @@ http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/11355
 
 
 #######################################################        #####################################################################
+
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Amc_4K.png" group-title="4K & 8K RES", AMC 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/33335.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Animal_Planet_HD.png" group-title="4K & 8K RES", ANIMAL PLANET 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/43324.ts
+
+#EXTINF:-1 tvg-logo="http://main.itsmydonow.xyz:2095/logos/STAR_HITS_.png" group-title="4K & 8K RES", STAR HITS 1 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/43323.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/arte.png" group-title="4K & 8K RES", ARTE1 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/43322.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/globosat+_4K.png" group-title="4K & 8K RES", MAIS NA TELA 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/43317.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/A&E_4K.png" group-title="4K & 8K RES", A&E 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/43315.ts
+
+#EXTINF:-1 tvg-logo="http://main.itsmydonow.xyz:2095/logos/STAR_HITS2_.png" group-title="4K & 8K RES", STAR HITS 2 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/43635.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/espn_extra_uhd.png" group-title="4K & 8K RES", ESPN RESRA 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44136.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/E!_HD.png" group-title="4K & 8K RES", E! 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44142.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/ESPN_Brasil_FHD.png" group-title="4K & 8K RES", ESPN BRASIL 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44143.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/ESPN_FHD.png" group-title="4K & 8K RES", ESPN 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44144.ts
+
+#EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-mundi.png" group-title="4K & 8K RES", HBO MUNDI 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44147.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/sport_tv_3_U4K.png" group-title="4K & 8K RES", SPORTV 3 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44149.ts
+
+#EXTINF:-1 tvg-logo="https://imagens.ebc.com.br/CUenmzbpHR0p1au5Tc0NCCn1Fk0=/754x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/conmebol_copa_libertadores.png?itok=MFhkivjW" group-title="4K & 8K RES", CONMEBOL TV 3 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44183.ts
+
+#EXTINF:-1 tvg-logo="https://imagens.ebc.com.br/CUenmzbpHR0p1au5Tc0NCCn1Fk0=/754x0/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/conmebol_copa_libertadores.png?itok=MFhkivjW" group-title="4K & 8K RES", CONMEBOL TV 4 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44184.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", FOX SPORTS 2 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44187.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", GLOBO SP 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44227.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", GLOBO RJ 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44228.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", GLOBO MINAS 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44229.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", CONMEBOL TV 1 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44234.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", FOOD NETWORK 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44237.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", PREMIERE CLUBES 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44239.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", REDE TV 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44242.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", SPACE 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44243.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", SPORTV 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44244.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", SPORTV 2 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44245.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", TNT 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44246.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", TNT SERIES 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44247.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", INTER TV DOS VALES 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44250.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="4K & 8K RES", MTV 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44253.ts
+
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/combate_4K.png" group-title="4K & 8K RES", COMBATE 4K RES & 8K
+http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/44152.ts
