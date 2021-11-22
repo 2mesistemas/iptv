@@ -951,11 +951,8 @@ http://asbx.xyz/valeb4asus/valeb4asus69/62651
 #EXTINF:-1 tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/ae.png" group-title="FILMES E SÉRIES", A&E
 http://asbx.xyz/valeb4asus/valeb4asus69/62650
 
-#######################################################    PLUTO TV    ######################################################################
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png" group-title="PLUTO TV", A vida moderna de Rocko
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6079c1539b05aa0007a57495/colorLogoPNG.png" group-title="PLUTO TV", As Aventuras de Jackie Chan
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
@@ -1127,9 +1124,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png" group-title="PLUTO TV", Turma da Mônica
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-
-
-###############################################    INFANTIS 24HS    #######################################################################
 
 #EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/d067b00880cfe639b7806e5ff982ba74.png" group-title="INFANTIS 24HS", MASHA E O USO
 http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/8541
@@ -1409,10 +1403,6 @@ http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/11357
 
 #EXTINF:-1 tvg-logo="http://dns.ccdns2.xyz:8080/images/40cd253c85f86a602f101f0b56199d33.png" group-title="INFANTIS 24HS", 3 PALAVRINHAS
 http://dns.ccdns2.xyz:80/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/11355
-
-
-#######################################################        #####################################################################
-
 
 #EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Amc_4K.png" group-title="4K & 8K RES", AMC 4K RES & 8K
 http://212.8.243.99:2095/live/dtv_101559/6BDcmA3Z/33335.ts
